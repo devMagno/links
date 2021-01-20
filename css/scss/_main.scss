@@ -19,3 +19,32 @@
     font-weight: 400;
   }
 }
+
+.main {
+  max-width: 600px;
+  margin: auto;
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  &__item {
+    flex: 1 1 200px;
+    margin: 10px;
+    border-radius: 5px;
+    &:hover {
+      box-shadow: 0 0 0 2px white;
+    }
+  }
+  &__link {
+    display: block;
+    padding: 15px 0;
+  }
+  &__icon {
+    font-size: em(26);
+    margin-bottom: 10px;
+  }
+  &__title {
+    font-size: em(18);
+  }
+}
