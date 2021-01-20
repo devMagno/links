@@ -2,9 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: $font;
   color: $font-color;
   font-size: inherit;
+  text-align: center;
 }
 img {
   max-width: 100%;
@@ -18,7 +18,9 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  font-family: $font-1;
 }
 a {
   text-decoration: none;
+  font-family: $font-2;
 }
