@@ -12,15 +12,18 @@ img {
 }
 body {
   background: $background-color;
-  padding: 30px;
+  padding: 30px 20px;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   min-height: 100vh;
   font-family: $font-1;
 }
+ul {
+  list-style-type: none;
+}
 a {
+  display: block;
   text-decoration: none;
   font-family: $font-2;
 }
