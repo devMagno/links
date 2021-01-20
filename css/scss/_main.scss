@@ -32,8 +32,25 @@
     flex: 1 1 200px;
     margin: 10px;
     border-radius: 5px;
+    transition: box-shadow .2s;
     &:hover {
       box-shadow: 0 0 0 2px white;
+    }
+    &--github {
+      background: #722CD8;
+      background: linear-gradient(90deg, #722CD8 8%, #9A56FD 98%);
+    }
+    &--linkedin {
+      background: rgb(54, 47, 182);
+      background: linear-gradient(90deg, rgba(111,139,231,1) 0%, rgba(47,41,157,1) 100%);
+    }
+    &--telegram {
+      background: rgb(0,136,204);
+      background: linear-gradient(90deg, rgba(0,136,204,1) 43%, rgba(32,172,242,1) 100%);
+    }
+    &--email {
+      background: rgb(187,0,27);
+      background: linear-gradient(90deg, rgba(187,0,27,1) 0%, rgba(234,67,53,1) 60%);
     }
   }
   &__link {
