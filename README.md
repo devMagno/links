@@ -4,6 +4,7 @@
 </p>
 
 ## 📖 Sobre   
+O projeto **Links** foi desenvolvido com o intuito de reunir as minhas redes sociais em uma única página. Desenvolvi o projeto utilizando o pré-processador **Sass** alinhado à metodologia **BEM**, além de **flexbox** para garantir a responsividade da página.
 
 ---
 
