@@ -16,9 +16,9 @@ O projeto **Links** foi desenvolvido com o intuito de reunir as minhas redes soc
 ---
 
 ## 🖥️ Demonstração
-[![Links](https://i.imgur.com/ZfLHbwy.png "Clique para acessar o projeto")](https://devmagno.github.io/links/index.html "Clique para acessar o projeto")   
+[![Links](https://i.imgur.com/ZfLHbwy.png "Clique para acessar o projeto")](https://magno.dev "Clique para acessar o projeto")   
 
-Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/links/index.html).
+Você pode acessar o projeto clicando [aqui](https://magno.dev).
 
 ---
 
